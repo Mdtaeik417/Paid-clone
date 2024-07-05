@@ -71,7 +71,7 @@ F::::::::FF             uu::::::::uu:::uk::::::k   k:::::k              y:::::y 
 FFFFFFFFFFF               uuuuuuuu  uuuukkkkkkkk    kkkkkkk            y:::::y
                                                     
 \033[1;32m==================================================
-          Author     :  TORIKUL 
+          Author     :  TORIKUL ISLAM
           Telegram   :  MD TORIKUL         
           Facebook   : TORIKUL ISLAM
           Github     :   mdtarik417
